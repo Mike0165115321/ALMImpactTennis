@@ -1,0 +1,6 @@
+{
+  "name": "ALM Impact Tennis",
+  "description": "Smart Matchmaking & Court Booking Platform for Tennis Enthusiasts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
