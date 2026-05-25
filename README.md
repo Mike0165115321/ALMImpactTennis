@@ -38,14 +38,8 @@
    npm install
    ```
 
-2. **ตั้งค่าสภาพแวดล้อม (Environment Variables)**:
-   * คัดลอกและสร้างไฟล์ `.env` (ระบบทำไว้ให้คุณแล้ว):
-     ```env
-     GEMINI_API_KEY="ใส่คีย์ของคุณที่นี่"
-     APP_URL="http://localhost:3001"
-     ```
 
-3. **รันเซิร์ฟเวอร์สำหรับพัฒนา (Development Server)**:
+2. **รันเซิร์ฟเวอร์สำหรับพัฒนา (Development Server)**:
    ```bash
    npm run dev
    ```
